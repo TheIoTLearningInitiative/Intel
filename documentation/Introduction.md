@@ -4,7 +4,7 @@
 
 ## 
 
-- [](https://blogs.intel.com/iot/2016/02/22/the-wireless-internet-of-things-finding-the-right-tool-for-the-job/)
+- [1](https://blogs.intel.com/iot/2016/02/22/the-wireless-internet-of-things-finding-the-right-tool-for-the-job/)
 
 ## IoT Middleware
 
