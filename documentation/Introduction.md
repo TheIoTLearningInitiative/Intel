@@ -5,6 +5,7 @@
 ## Comms
 
 - [1](https://blogs.intel.com/iot/2016/02/22/the-wireless-internet-of-things-finding-the-right-tool-for-the-job/)
+- [2](http://www.slashgear.com/intels-5g-aspirations-mobile-pc-cloud-iot-end-to-end-22428310/)
 
 ## IoT Middleware
 
