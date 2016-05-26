@@ -1,7 +1,7 @@
 # Introduction
 
 - [IoT Documentation](https://software.intel.com/en-us/iot/documentation)
-- http://fortune.com/2016/05/26/intel-buys-itseez/
+- [](http://fortune.com/2016/05/26/intel-buys-itseez/)
 
 ## Comms
 
