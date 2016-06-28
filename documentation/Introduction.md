@@ -3,6 +3,7 @@
 - [IoT Documentation](https://software.intel.com/en-us/iot/documentation)
 - [](http://fortune.com/2016/05/26/intel-buys-itseez/)
 - [most popular IoT stories to guide you through the latest projects in the IoT space](https://software.intel.com/en-us/blogs/2016/01/21/trending-on-iot-our-most-popular-intel-iot-developer-stories?cid=em-elq-9456&utm_source=elq&utm_medium=email&utm_campaign=9456&elq_cid=1605185&elqTrackId=a4c7a65dc300459688167bda07a9c5f9&elq=6760b048cc0a4ede9371f63a425d1750&elqaid=9456&elqat=1&elqCampaignId=7270)
+- [](https://newsroom.intel.com/editorials/intel-acquires-computer-vision-for-iot-automotive/)
 
 ## Comms
 
