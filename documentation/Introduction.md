@@ -20,3 +20,5 @@
 - [1](http://git.yoctoproject.org/cgit/cgit.cgi/meta-intel-iot-middleware/tree/)
 - [2](http://www.mashery.com/internet-of-things)
 
+http://www.intel.com/content/www/us/en/cofluent/overview.html
+
