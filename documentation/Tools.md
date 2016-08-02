@@ -90,10 +90,14 @@
 > $$$
 
 
-# Intel Parallel Studio XE Composer Edition Software $$$
+# Intel Parallel Studio XE Composer Edition Software
+
+> $$$
 
 
-# Intel Video Pro Analizer Software $$$
+# Intel Video Pro Analizer Software 
+
+> $$$
 
 
 # Intel XDK Software Free
