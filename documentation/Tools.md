@@ -1,24 +1,38 @@
 # Tools
 
 ```
-# Intel System Studio for Microcoontrollers Software $$$
+# Intel System Studio for Microcoontrollers Software
+
+> $$$
 
 
-# Intel System Studio for IoT Software $$$ Free for 12 month evaluation license may only be used for evaluations and non-commercial use
+# Intel System Studio for IoT Software
 
-# Intel XDK IoT Edition Software Free 
+> $$$ Free for 12 month evaluation license may only be used for evaluations and non-commercial use
 
+# Intel XDK IoT Edition Software
 
-# Wind River Rocket Software Free
-
-
-# Wind River Intelligent Device Platform XT Software $$$ 
+> Free 
 
 
-# Wind River VxWorks Software $$$
+# Wind River Rocket Software 
+
+> Free
 
 
-# Wind River Simics Software $$$
+# Wind River Intelligent Device Platform XT Software 
+
+> $$$ 
+
+
+# Wind River VxWorks Software
+
+> $$$
+
+
+# Wind River Simics Software
+
+> $$$
 
 
 # Intel cofluent studio Software $$$
