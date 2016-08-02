@@ -35,19 +35,29 @@
 > $$$
 
 
-# Intel cofluent studio Software $$$
+# Intel cofluent studio Software
+
+> $$$
 
 
-# Intel IoT Developper Kits Software Free
+# Intel IoT Developper Kits Software 
+
+> Free
 
 
-# IoT starter Kits Powered by AWS Cloud Hardware $$$
+# IoT starter Kits Powered by AWS Cloud Hardware
+
+> $$$
 
 
-# Wearable Smart Gateway Hardware $$$
+# Wearable Smart Gateway Hardware
+
+> $$$
 
 
-# Intel IoT Gateways Hardware $$$
+# Intel IoT Gateways Hardware
+
+> $$$
 
 
 # Accesos a IoT analytics Software Free
