@@ -60,22 +60,34 @@
 > $$$
 
 
-# Accesos a IoT analytics Software Free
+# Accesos a IoT analytics Software
+
+> Free
 
 
-# Accesos a Red API Intel Mashery Software $$$
+# Accesos a Red API Intel Mashery Software
+
+> $$$
 
 
-# Accesos Amazon Web Services IoT Service SDK Software $$$
+# Accesos Amazon Web Services IoT Service SDK Software
+
+> $$$
 
 
-# Intel Firmware Support Package Software Free
+# Intel Firmware Support Package Software
+
+> Free
 
 
-# Intel Boot Loader Development Kit  Software Free
+# Intel Boot Loader Development Kit  Software
+
+> Free
 
 
-# Intel Parallel Studio XE Cluster Edition Software $$$
+# Intel Parallel Studio XE Cluster Edition Software
+
+> > $$$
 
 
 # Intel Parallel Studio XE Composer Edition Software $$$
