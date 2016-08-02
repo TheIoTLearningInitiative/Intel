@@ -87,7 +87,7 @@
 
 # Intel Parallel Studio XE Cluster Edition Software
 
-> > $$$
+> $$$
 
 
 # Intel Parallel Studio XE Composer Edition Software $$$
