@@ -73,6 +73,8 @@ Intel® Quark™ microcontroller targets
 # Wind River Simics Software
 
 > Cost
+> Simulate Anything, Chip to System
+> Wind River® Simics® provides the access, automation, and collaboration tools required for Agile development practices.
 
 - [Wind River Simics](http://www.windriver.com/products/simics/)
 
