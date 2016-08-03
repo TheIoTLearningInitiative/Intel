@@ -187,7 +187,7 @@ Intel Gateway Solutions for IoT provides:
 
 > 
  
-[](https://software.intel.com/en-us/articles/intel-cluster-studio-xe-documentation)
+[Intel® Cluster Studio XE](https://software.intel.com/en-us/articles/intel-cluster-studio-xe-documentation)
 
 
 ## Intel Parallel Studio XE Composer Edition Software
