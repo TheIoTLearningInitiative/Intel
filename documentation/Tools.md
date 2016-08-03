@@ -169,10 +169,12 @@ Intel Gateway Solutions for IoT provides:
 
 # Intel Parallel Studio XE Cluster Edition Software
 
-> Cost
-> Composer XE is itself a suite of products. It consists of the C++ compiler with Cilk Plus extensions, the Fortran compiler, Math Kernel Library, and Threading Building Blocks.
+
 
 # Intel Parallel Studio XE Composer Edition Software
+
+> Cost
+> Composer XE is itself a suite of products. It consists of the C++ compiler with Cilk Plus extensions, the Fortran compiler, Math Kernel Library, and Threading Building Blocks.
 
 > Cost
 > Deliver top C++ and Fortran application performance with less effort
