@@ -9,7 +9,6 @@
 - [IoT’s Role in Future of Transportation is at Center of Senate Hearings](https://newsroom.intel.com/chip-shots/iots-role-future-transportation-center-senate-hearings/)
 - [Blog: Intel Acquires YOGITECH for IoT Functional Safety](https://newsroom.intel.com/editorials/blog-intel-acquires-yogitech-for-iot-functional-safety/)
 
-
 ## Comms
 
 - [1](https://blogs.intel.com/iot/2016/02/22/the-wireless-internet-of-things-finding-the-right-tool-for-the-job/)
