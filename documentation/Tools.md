@@ -52,7 +52,9 @@ Intel® Quark™ microcontroller targets
 # Wind River VxWorks Software
 
 > Cost
+> The world’s most widely deployed real-time operating system. VxWorks® is the industry’s leading commercial embedded operating system, offering a feature-rich development environment with the uncompromising performance required for mission-critical and safety-mandated applications.
 
+[VxWorks® Homepage](http://www.windriver.com/products/vxworks/)
 
 # Wind River Simics Software
 
