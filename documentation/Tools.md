@@ -27,8 +27,7 @@ Intel® Quark™ microcontroller targets
 
 - [Intel® System Studio 2016](https://software.intel.com/en-us/intel-system-studio)
 
-
-(https://software.intel.com/sites/default/files/dpd-iss-block-diagram.png)
+<img src="https://software.intel.com/sites/default/files/dpd-iss-block-diagram.png">
 
 # Intel XDK IoT Edition Software
 
