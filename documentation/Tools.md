@@ -189,6 +189,7 @@ Intel Gateway Solutions for IoT provides:
 - Intel Parallel Advisor helps programmers decide where to parallelize their code, and whether the resulting performance gain will be worth the effort
 - Intel VTune Amplifier (formerly VTune Performance Analyzer) is a performance profiler that analyzes hotspots, concurrency and locks-and-waits.
 - Intel Parallel Inspector improves reliability by identifying memory errors and threading errors.
+
 ## Intel Parallel Studio XE Cluster Edition Software
 
 > 
