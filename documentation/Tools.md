@@ -160,7 +160,9 @@ Intel Gateway Solutions for IoT provides:
 
 # Accesos a Red API Intel Mashery Software
 
-> Cost
+> 
+ 
+[TIBCO Software to acquire API Management Leader MASHERY](http://www.tibco.com/company/news/releases/2015/tibco-software-to-acquire-api-management-leader-mashery)
 
 
 # Accesos Amazon Web Services IoT Service SDK Software
