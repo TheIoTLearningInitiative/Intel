@@ -42,6 +42,12 @@ Intel® Quark™ microcontroller targets
 # Wind River Rocket Software 
 
 > Free
+> Help your Internet of Things (IoT) projects take off with Wind River® Rocket™, a free embedded operating system specifically designed to quickly and easily build small, intelligent devices.
+
+> Projects with Rocket® are dramatically simplified by our new cloud-based development environment, Wind River Helix™ App Cloud. Find out more at the Rocket Developer Zone.
+
+- [Wind River® Rocket™ Homepage](http://windriver.com/products/operating-systems/rocket/)
+- [Wind River® Rocket™ Platforms Supported](https://software.intel.com/sites/default/files/managed/8d/f0/PLATFORM_SUPPORT.pdf)
 
 
 # Wind River Intelligent Device Platform XT Software 
