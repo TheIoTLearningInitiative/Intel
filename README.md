@@ -1,4 +1,4 @@
-<h1><center><b>Wind River IoT</b></center></h1>
+<h1><center><b>Intel Internet of Things</b></center></h1>
 
 <center><img src="http://www.ti.com/lsds/media/images/wireless_connectivity/50BillionThings.png"></center>
 
