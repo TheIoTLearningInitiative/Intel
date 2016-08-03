@@ -21,7 +21,7 @@ Intel® Quark™ microcontroller targets
 
 # Intel System Studio for IoT Software
 
-> $$$ Free for 12 month evaluation license may only be used for evaluations and non-commercial use
+> Cost Free for 12 month evaluation license may only be used for evaluations and non-commercial use
 
 # Intel XDK IoT Edition Software
 
@@ -35,22 +35,22 @@ Intel® Quark™ microcontroller targets
 
 # Wind River Intelligent Device Platform XT Software 
 
-> $$$ 
+> Cost 
 
 
 # Wind River VxWorks Software
 
-> $$$
+> Cost
 
 
 # Wind River Simics Software
 
-> $$$
+> Cost
 
 
 # Intel cofluent studio Software
 
-> $$$
+> Cost
 
 
 # Intel IoT Developper Kits Software 
@@ -60,17 +60,17 @@ Intel® Quark™ microcontroller targets
 
 # IoT starter Kits Powered by AWS Cloud Hardware
 
-> $$$
+> cost
 
 
 # Wearable Smart Gateway Hardware
 
-> $$$
+> cost
 
 
 # Intel IoT Gateways Hardware
 
-> $$$
+> cost
 
 
 # Accesos a IoT analytics Software
@@ -80,12 +80,12 @@ Intel® Quark™ microcontroller targets
 
 # Accesos a Red API Intel Mashery Software
 
-> $$$
+> Cost
 
 
 # Accesos Amazon Web Services IoT Service SDK Software
 
-> $$$
+> Cost
 
 
 # Intel Firmware Support Package Software
@@ -100,17 +100,17 @@ Intel® Quark™ microcontroller targets
 
 # Intel Parallel Studio XE Cluster Edition Software
 
-> $$$
+> Cost
 
 
 # Intel Parallel Studio XE Composer Edition Software
 
-> $$$
+> Cost
 
 
 # Intel Video Pro Analizer Software 
 
-> $$$
+> Cost
 
 
 # Intel XDK Software Free
