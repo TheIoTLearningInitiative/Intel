@@ -72,11 +72,13 @@ Intel® Quark™ microcontroller targets
 
 # Wind River Simics Software
 
-> Cost
-> Simulate Anything, Chip to System
-> Wind River® Simics® provides the access, automation, and collaboration tools required for Agile development practices.
+> Simulate Anything, Chip to System. Wind River® Simics® provides the access, automation, and collaboration tools required for Agile development practices. 
 
-- [Wind River Simics](http://www.windriver.com/products/simics/)
+> A Better Way to Build Embedded Software. Simics simulates systems—from the smallest to the most complex—so you can adopt new development techniques that are simply not possible with physical hardware. By moving from physical hardware to a virtual lab, embedded software teams can revolutionize crucial aspects of their processes.
+
+[Wind River Simics](http://www.windriver.com/products/simics/)
+
+> __Knowledge Library__ Browse our archive of documents, videos, and presentations to learn more about how Wind River® Simics® can revolutionize embedded software development. [Knowledge Library](http://www.windriver.com/products/simics/knowledge-library.html)
 
 # Intel cofluent studio Software
 
