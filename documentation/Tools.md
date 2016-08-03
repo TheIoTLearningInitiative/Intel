@@ -209,8 +209,6 @@ Intel Gateway Solutions for IoT provides:
 
 <img src="http://www.colfaxdirect.com/store/pc/catalog/intel-parallel-studio-xe-editions-comparison.gif">
 
-
-
 ## Intel Parallel Studio XE Cluster Edition Software
 
 > 
