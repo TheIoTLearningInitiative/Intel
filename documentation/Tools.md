@@ -80,7 +80,7 @@ Intel® Quark™ microcontroller targets
 
 > __Knowledge Library__ Browse our archive of documents, videos, and presentations to learn more about how Wind River® Simics® can revolutionize embedded software development. [Knowledge Library](http://www.windriver.com/products/simics/knowledge-library.html)
 
-# Intel cofluent studio Software
+# Intel Cofluent Studio Software
 
 > Cost
 
