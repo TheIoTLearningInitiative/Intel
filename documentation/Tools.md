@@ -144,8 +144,6 @@ Intel Gateway Solutions for IoT provides:
 
 # Accesos a IoT Analytics Software
 
-> Free
-
 ## Intel® IoT Analytics Dashboard
 
 > Free
