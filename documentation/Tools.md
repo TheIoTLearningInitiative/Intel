@@ -1,4 +1,4 @@
-# Tool
+# Tools
 
 # Intel System Studio for Microcoontrollers Software
 
