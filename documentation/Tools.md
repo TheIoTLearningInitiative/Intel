@@ -125,7 +125,7 @@ Intel® Quark™ microcontroller targets
 > cost
 
 
-# Accesos a IoT analytics Software
+# Accesos a IoT Analytics Software
 
 > Free
 
