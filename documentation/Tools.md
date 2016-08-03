@@ -1,6 +1,5 @@
 # Tool
 
-```
 # Intel System Studio for Microcoontrollers Software
 
 > Cost
@@ -114,4 +113,3 @@ Intel® Quark™ microcontroller targets
 
 
 # Intel XDK Software Free
-```
