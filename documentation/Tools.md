@@ -123,9 +123,27 @@ Intel® Quark™ microcontroller targets
 # Intel IoT Gateways Hardware
 
 > cost
+> Intel® IoT Gateways connect legacy and next generation intelligent infrastructure reducing time-to-market and development cost with open architecture pre-validated solutions.
+
+> Intel® IoT Gateways are preconfigured with Wind River Helix Device Cloud agent, it provides easy connectivity to facilitate device configuration, data capture, file transfers, etc.
+
+- [Intel® IoT Gateways Homepage](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html)
+- [Intel® IoT Gateways: Publishing Data to an MQTT Broker Using Python](https://software.intel.com/en-us/SetupGateway-MQTT)
+- [Getting Started with Intel® IoT Gateways with Intel® IoT Developer Kit 3.5](https://software.intel.com/en-us/getting-started-with-intel-iot-gateways-and-iotdk)
+
+![Intel® Gateway Solutions for IoT Software Stack.](iotSoftwareStack.PNG)
+
+Intel Gateway Solutions for IoT provides:
+
+- Connectivity up to the cloud and enterprises
+- Connectivity down to sensors and existing controllers embedded in the system
+- Preprocess filtering of selected data for delivery
+- Local decision-making, enabling easy connectivity to legacy systems
+- A hardware root of trust, data encryption, attestation, and software lockdown for security
+- Local computing for in-device analytics.
 
 
-http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html
+
 
 # Accesos a IoT Analytics Software
 
