@@ -53,7 +53,6 @@ Intel® Quark™ microcontroller targets
 
 > Cost 
 
-
 # Wind River VxWorks Software
 
 > Cost
