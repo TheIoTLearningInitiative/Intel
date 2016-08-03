@@ -182,4 +182,7 @@ Intel Gateway Solutions for IoT provides:
 > Cost
 
 
+[Intel® Video Pro Analyzer (Intel® VPA)](https://software.intel.com/en-us/intel-video-pro-analyzer)
+
+
 # Intel XDK Software Free
