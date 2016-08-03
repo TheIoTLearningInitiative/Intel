@@ -82,7 +82,10 @@ Intel® Quark™ microcontroller targets
 
 # Intel Cofluent Studio Software
 
-> http://www.intel.com/content/www/us/en/cofluent/cofluent-studio.html
+> 
+> 
+
+[Intel Cofluent Studio](http://www.intel.com/content/www/us/en/cofluent/cofluent-studio.html)
 
 
 # Intel System Modeling and Simulation Solution
