@@ -22,3 +22,4 @@
 
 http://www.intel.com/content/www/us/en/cofluent/overview.html
 
+https://software.intel.com/en-us/node/604839
