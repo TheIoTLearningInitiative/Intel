@@ -146,6 +146,7 @@ Intel Gateway Solutions for IoT provides:
 
 > Free
 
+[](https://software.intel.com/en-us/iot/software/cloud-analytics)
 
 # Accesos a Red API Intel Mashery Software
 
