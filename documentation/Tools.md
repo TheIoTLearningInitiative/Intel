@@ -1,4 +1,4 @@
- # Tools
+# Tools
 
 # Intel System Studio for Microcoontrollers Software
 
@@ -83,7 +83,7 @@ Intel® Quark™ microcontroller targets
 # Intel Cofluent Studio Software
 
 > Cost
-?
+> 
 
 [Intel System Modeling and Simulation Solution](http://www.intel.com/content/www/us/en/cofluent/overview.html)
 
