@@ -74,6 +74,7 @@ Intel® Quark™ microcontroller targets
 
 > Cost
 
+- [Wind River Simics](http://www.windriver.com/products/simics/)
 
 # Intel cofluent studio Software
 
