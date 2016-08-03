@@ -39,8 +39,6 @@ Intel® Quark™ microcontroller targets
 
 [Intel® XDK IoT Edition](https://software.intel.com/en-us/iot/software/ide/intel-xdk-iot-edition)
 
-
-
 # Wind River Rocket Software 
 
 > Free
