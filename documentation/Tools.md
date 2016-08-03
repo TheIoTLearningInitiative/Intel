@@ -99,7 +99,7 @@ Intel® Quark™ microcontroller targets
 
 > Free
 
-
+- [Intel® IoT Developer Kit](https://software.intel.com/en-us/iot/hardware/devkit)
 # IoT starter Kits Powered by AWS Cloud Hardware
 
 > cost
