@@ -22,4 +22,3 @@
 - [2](http://www.mashery.com/internet-of-things)
 - [3](http://www.intel.com/content/www/us/en/cofluent/overview.html)
 - [4](https://software.intel.com/en-us/node/604839)
-
