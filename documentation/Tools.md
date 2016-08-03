@@ -82,11 +82,11 @@ Intel® Quark™ microcontroller targets
 
 # Intel Cofluent Studio Software
 
+> Cost
 > Model and simulate system behavior
-> 
+> Design and Model Optimized Architecture. Intel® CoFluent™ Studio is a modeling and simulation tool for optimizing early architecture and designs, predicting performance, and maximizing resource utilization.
 
 [Intel Cofluent Studio](http://www.intel.com/content/www/us/en/cofluent/cofluent-studio.html)
-
 
 # Intel System Modeling and Simulation Solution
 
