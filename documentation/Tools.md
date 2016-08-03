@@ -162,10 +162,11 @@ Intel Gateway Solutions for IoT provides:
 > Free
 
 
+[](http://www.intel.com/content/www/us/en/intelligent-systems/intel-firmware-support-package/firmware-support-package-brief.html)
+
 ## Intel Boot Loader Development Kit  Software
 
 > Free
-
 
 ## Intel Parallel Studio XE 
 
@@ -180,7 +181,7 @@ Intel Gateway Solutions for IoT provides:
 
 
 
-# Intel Parallel Studio XE Composer Edition Software
+## Intel Parallel Studio XE Composer Edition Software
 
 > Cost
 > Composer XE is itself a suite of products. It consists of the C++ compiler with Cilk Plus extensions, the Fortran compiler, Math Kernel Library, and Threading Building Blocks.
