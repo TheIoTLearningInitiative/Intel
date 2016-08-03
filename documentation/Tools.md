@@ -25,6 +25,8 @@ Intel® Quark™ microcontroller targets
 > - Accelerate time to market for Intel® architecture-based systems and embedded applications
 > - Cross-development tools for Intel architecture and multiple target operating systems
 
+- [](https://software.intel.com/en-us/intel-system-studio)
+
 # Intel XDK IoT Edition Software
 
 > Free 
