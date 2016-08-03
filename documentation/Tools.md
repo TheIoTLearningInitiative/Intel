@@ -160,7 +160,7 @@ Intel Gateway Solutions for IoT provides:
 
 # Accesos a Red API Intel Mashery Software
 
-> 
+> Mashery Enterprise Powers Advanced API Programs. API INTEGRATION, ROUTING, TRANSFORMATION, CHOREOGRAPHY, AND MORE...
  
 [TIBCO Software to acquire API Management Leader MASHERY](http://www.tibco.com/company/news/releases/2015/tibco-software-to-acquire-api-management-leader-mashery)
 
