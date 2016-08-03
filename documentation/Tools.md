@@ -146,6 +146,10 @@ Intel Gateway Solutions for IoT provides:
 
 > Free
 
+> Intel® IoT Analytics Dashboard
+> This beta cloud-based analytics system for IoT includes resources for the collection and analysis of sensor data. Using this service, you can jump-start data acquisition and analysis without having to invest in large-scale storage and processing capacity.
+
+
 
 ## Third-Party Cloud Resources
 
