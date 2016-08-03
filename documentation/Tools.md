@@ -12,6 +12,9 @@
 
 [Intel System Studio for Microcoontrollers](https://software.intel.com/en-us/intel-system-studio-microcontrollers)
 
+Intel® Quark™ microcontroller targets
+
+
 
 # Intel System Studio for IoT Software
 
