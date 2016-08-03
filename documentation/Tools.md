@@ -49,7 +49,6 @@ Intel® Quark™ microcontroller targets
 - [Wind River® Rocket™ Homepage](http://windriver.com/products/operating-systems/rocket/)
 - [Wind River® Rocket™ Platforms Supported](https://software.intel.com/sites/default/files/managed/8d/f0/PLATFORM_SUPPORT.pdf)
 
-
 # Wind River Intelligent Device Platform XT Software 
 
 > Cost 
