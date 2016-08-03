@@ -14,7 +14,10 @@
 
 Intel® Quark™ microcontroller targets
 
-
+- D1000 Download
+- D2000 Download
+- SE (Sign Up)
+- Intel Curie Module (Sign Up)
 
 # Intel System Studio for IoT Software
 
