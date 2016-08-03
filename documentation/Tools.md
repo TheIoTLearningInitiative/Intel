@@ -117,7 +117,6 @@ Intel® Quark™ microcontroller targets
 
 > cost
 
-
 # Intel IoT Gateways Hardware
 
 > cost
