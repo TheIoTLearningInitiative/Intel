@@ -192,6 +192,12 @@ Intel Gateway Solutions for IoT provides:
 > - Faster code: Boost applications performance that scales on today’s and next-gen processors
 > - Create code faster: Utilize a toolset that simplifies creating fast, reliable parallel code 
 
+> Intel® Parallel Studio XE 2015 comes in three editions based on your development needs:
+> > Composer Edition includes compilers, performance libraries, and parallel models optimized to build fast parallel code.
+> > Professional Edition includes everything in the Composer edition. It adds performance profiler, threading design/prototyping, and memory & thread debugger to design, build, debug and tune fast parallel code.
+> > Cluster Edition includes everything in the Professional edition. It adds a MPI cluster communications library, along with MPI error checking and tuning to design, build, debug and tune fast parallel code that includes MPI.
+
+
 [Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe)
 
 - Intel Parallel Composer:
