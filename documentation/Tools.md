@@ -142,9 +142,6 @@ Intel Gateway Solutions for IoT provides:
 - A hardware root of trust, data encryption, attestation, and software lockdown for security
 - Local computing for in-device analytics.
 
-
-
-
 # Accesos a IoT Analytics Software
 
 > Free
