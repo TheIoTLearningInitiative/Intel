@@ -177,6 +177,8 @@ Intel Gateway Solutions for IoT provides:
 > Cost
 
 
+[Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe)
+
 # Intel Video Pro Analizer Software 
 
 > Cost
