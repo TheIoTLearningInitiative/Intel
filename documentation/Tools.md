@@ -146,7 +146,12 @@ Intel Gateway Solutions for IoT provides:
 
 > Free
 
-[](https://software.intel.com/en-us/iot/software/cloud-analytics)
+
+## Third-Party Cloud Resources
+
+> Cloud and Analytics Tools. Connect your Intel® IoT project to a variety of cloud and analytics services.
+
+[Third-Party Cloud Resources](https://software.intel.com/en-us/iot/software/cloud-analytics)
 
 # Accesos a Red API Intel Mashery Software
 
