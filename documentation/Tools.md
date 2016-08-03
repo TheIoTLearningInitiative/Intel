@@ -116,6 +116,9 @@ Intel® Quark™ microcontroller targets
 # Wearable Smart Gateway Hardware
 
 > cost
+> The Wearable Smart Gateway* (WSG*) is the world’s first wearable communications gateway that allows first responders to securely share multimedia information over wide-area networks in real time.
+
+[Wearable Smart Gateway](https://software.intel.com/en-us/articles/the-wearable-smart-gateway-revolutionary-wearable-tech-for-first-responders)
 
 # Intel IoT Gateways Hardware
 
