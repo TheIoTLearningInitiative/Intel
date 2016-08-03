@@ -83,7 +83,7 @@ Intel® Quark™ microcontroller targets
 # Intel Cofluent Studio Software
 
 > Cost
-> 
+> Predict, Analyze, and Optimize Your Systems. Speed up the deployment of your business’s complex systems by modeling and simulating hardware and software interactions using Intel® CoFluent™ technology. This solution analyzes the behavior of your systems, and predicts the network and performance requirements of software stacks and hardware activities before you purchase and deploy your equipment — including equipment for big data clusters and Internet of Things (IoT) solutions. Simulations help you determine the optimal settings for your unique needs, so you can plan the most effective network and save time and money.
 
 [Intel System Modeling and Simulation Solution](http://www.intel.com/content/www/us/en/cofluent/overview.html)
 
