@@ -21,8 +21,9 @@ Intel® Quark™ microcontroller targets
 # Intel System Studio for IoT Software
 
 > Cost Free for 12 month evaluation license may only be used for evaluations and non-commercial use
-
-
+> The Smart Way to Create Smart Code-Based on Deep, System-Wide Insights
+> - Accelerate time to market for Intel® architecture-based systems and embedded applications
+> - Cross-development tools for Intel architecture and multiple target operating systems
 
 # Intel XDK IoT Edition Software
 
