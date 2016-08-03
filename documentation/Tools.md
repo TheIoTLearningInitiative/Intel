@@ -18,6 +18,9 @@ Intel® Quark™ microcontroller targets
 - SE (Sign Up)
 - Intel Curie Module (Sign Up)
 
+<img src="https://software.intel.com/sites/default/files/managed/87/a6/Final-Diagram-footnote.png">
+
+
 # Intel System Studio for IoT Software
 
 > Cost Free for 12 month evaluation license may only be used for evaluations and non-commercial use
