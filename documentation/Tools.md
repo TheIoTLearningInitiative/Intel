@@ -162,7 +162,7 @@ Intel Gateway Solutions for IoT provides:
 > Free
 > An easy-to-integrate and scalable firmware solution for developers creating the next-generation of Intel® processor-based systems
 
-
+> Intel® Firmware Support Package (Intel® FSP) provides key programming information for initializing Intel® silicon and can be easily integrated into a boot loader of the developer’s choice. It is easy to adopt, scalable to design, reduces time-to-market, and is economical to build.
 
 [Intel® Firmware Support Package](http://www.intel.com/content/www/us/en/intelligent-systems/intel-firmware-support-package/intel-fsp-overview.html)
 
