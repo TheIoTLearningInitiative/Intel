@@ -160,6 +160,8 @@ Intel Gateway Solutions for IoT provides:
 # Intel Firmware Support Package Software
 
 > Free
+> An easy-to-integrate and scalable firmware solution for developers creating the next-generation of Intel® processor-based systems
+
 
 
 [Intel® Firmware Support Package](http://www.intel.com/content/www/us/en/intelligent-systems/intel-firmware-support-package/intel-fsp-overview.html)
