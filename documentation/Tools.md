@@ -3,7 +3,7 @@
 ```
 # Intel System Studio for Microcoontrollers Software
 
-> $$$
+> Cost
 > Tools for Intel® Quark™ Microcontroller Software Developers
 > - Create exciting IoT solutions with Intel® Quark™ microcontrollers.
 > - Develop efficiently in an Eclipse* integrated development environment (IDE).
