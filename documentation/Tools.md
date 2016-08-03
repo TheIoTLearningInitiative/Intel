@@ -175,7 +175,9 @@ Intel Gateway Solutions for IoT provides:
 # Intel Parallel Studio XE Composer Edition Software
 
 > Cost
-
+> Deliver top C++ and Fortran application performance with less effort
+> - Faster code: Boost applications performance that scales on today’s and next-gen processors
+> - Create code faster: Utilize a toolset that simplifies creating fast, reliable parallel code 
 
 [Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe)
 
