@@ -131,8 +131,6 @@ Intel® Quark™ microcontroller targets
 - [Intel® IoT Gateways: Publishing Data to an MQTT Broker Using Python](https://software.intel.com/en-us/SetupGateway-MQTT)
 - [Getting Started with Intel® IoT Gateways with Intel® IoT Developer Kit 3.5](https://software.intel.com/en-us/getting-started-with-intel-iot-gateways-and-iotdk)
 
-![Intel® Gateway Solutions for IoT Software Stack.](iotSoftwareStack.PNG)
-
 Intel Gateway Solutions for IoT provides:
 
 - Connectivity up to the cloud and enterprises
