@@ -180,7 +180,12 @@ Intel Gateway Solutions for IoT provides:
 # Intel Video Pro Analizer Software 
 
 > Cost
-
+> A comprehensive tool suite for advanced video quality analysis and to ensure encoder compliance. Supports Microsoft Windows*, Linux*, and OS X*.
+> - Inspect, test and debug the entire decode/ encode process
+> - Analyze HEVC, VP9, AVC and MPEG-2 encoders and decoders
+> - Validate bitstreams for compliance, ensuring compatibility with the widest range of decoders
+> - Innovate with BT.2020, SHVC, and SCC for UHD & HDR viewing experience
+> - User intuitive views of heat maps, syntax element, splits, motion vectors, reference frames, statistics extraction and side-by-side comparisons
 
 [Intel® Video Pro Analyzer (Intel® VPA)](https://software.intel.com/en-us/intel-video-pro-analyzer)
 
