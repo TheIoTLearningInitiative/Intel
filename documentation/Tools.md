@@ -84,6 +84,7 @@ Intel® Quark™ microcontroller targets
 
 > Cost
 
+[Intel System Modeling and Simulation Solution](http://www.intel.com/content/www/us/en/cofluent/overview.html)
 
 # Intel IoT Developper Kits Software 
 
