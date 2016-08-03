@@ -1,6 +1,6 @@
 # Tools
 
-# Intel System Studio for Microcoontrollers Software
+# Intel System Studio for Microcontrollers Software
 
 > Cost
 > Tools for Intel® Quark™ Microcontroller Software Developers
