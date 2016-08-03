@@ -125,6 +125,8 @@ Intel® Quark™ microcontroller targets
 > cost
 
 
+http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html
+
 # Accesos a IoT Analytics Software
 
 > Free
