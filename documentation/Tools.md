@@ -98,6 +98,13 @@ Intel® Quark™ microcontroller targets
 # Intel IoT Developper Kits Software 
 
 > Free
+> Build innovative prototypes and take them to production-ready products with this collection of hardware and software options. The developer kit includes:
+> - Development boards and starter kits
+> - IDEs to support a variety of programming languages
+> - Libraries to support I/O and sensor interactions
+> - Intel® IoT Gateway Technology
+> - Cloud connectors to enable analytics
+> - Documentation and code samples
 
 - [Intel® IoT Developer Kit](https://software.intel.com/en-us/iot/hardware/devkit)
 # IoT starter Kits Powered by AWS Cloud Hardware
