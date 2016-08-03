@@ -80,6 +80,13 @@ Intel® Quark™ microcontroller targets
 
 > __Knowledge Library__ Browse our archive of documents, videos, and presentations to learn more about how Wind River® Simics® can revolutionize embedded software development. [Knowledge Library](http://www.windriver.com/products/simics/knowledge-library.html)
 
+# Intel System Modeling and Simulation Solution
+
+> Cost
+> Predict, Analyze, and Optimize Your Systems. Speed up the deployment of your business’s complex systems by modeling and simulating hardware and software interactions using Intel® CoFluent™ technology. This solution analyzes the behavior of your systems, and predicts the network and performance requirements of software stacks and hardware activities before you purchase and deploy your equipment — including equipment for big data clusters and Internet of Things (IoT) solutions. Simulations help you determine the optimal settings for your unique needs, so you can plan the most effective network and save time and money.
+
+[Intel System Modeling and Simulation Solution](http://www.intel.com/content/www/us/en/cofluent/overview.html)
+
 # Intel Cofluent Studio Software
 
 > Cost
@@ -87,13 +94,6 @@ Intel® Quark™ microcontroller targets
 > Design and Model Optimized Architecture. Intel® CoFluent™ Studio is a modeling and simulation tool for optimizing early architecture and designs, predicting performance, and maximizing resource utilization.
 
 [Intel Cofluent Studio](http://www.intel.com/content/www/us/en/cofluent/cofluent-studio.html)
-
-# Intel System Modeling and Simulation Solution
-
-> Cost
-> Predict, Analyze, and Optimize Your Systems. Speed up the deployment of your business’s complex systems by modeling and simulating hardware and software interactions using Intel® CoFluent™ technology. This solution analyzes the behavior of your systems, and predicts the network and performance requirements of software stacks and hardware activities before you purchase and deploy your equipment — including equipment for big data clusters and Internet of Things (IoT) solutions. Simulations help you determine the optimal settings for your unique needs, so you can plan the most effective network and save time and money.
-
-[Intel System Modeling and Simulation Solution](http://www.intel.com/content/www/us/en/cofluent/overview.html)
 
 # Intel IoT Developper Kits Software 
 
