@@ -162,6 +162,7 @@ Intel Gateway Solutions for IoT provides:
 > Free
 
 
+[](http://www.intel.com/content/www/us/en/intelligent-systems/intel-firmware-support-package/intel-fsp-overview.html)
 [](http://www.intel.com/content/www/us/en/intelligent-systems/intel-firmware-support-package/firmware-support-package-brief.html)
 
 ## Intel Boot Loader Development Kit  Software
