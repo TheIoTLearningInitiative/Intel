@@ -95,7 +95,7 @@ Intel® Quark™ microcontroller targets
 
 [Intel Cofluent Studio](http://www.intel.com/content/www/us/en/cofluent/cofluent-studio.html)
 
-# Intel IoT Developper Kits Software 
+# Intel IoT Developer Kits Software 
 
 > Free
 > Build innovative prototypes and take them to production-ready products with this collection of hardware and software options. The developer kit includes:
@@ -147,7 +147,7 @@ Intel Gateway Solutions for IoT provides:
 > Free
 > This beta cloud-based analytics system for IoT includes resources for the collection and analysis of sensor data. Using this service, you can jump-start data acquisition and analysis without having to invest in large-scale storage and processing capacity.
 
-[Third-Party Cloud Resources](https://software.intel.com/en-us/iot/software/cloud-analytics)
+[Intel® IoT Analytics](https://software.intel.com/en-us/iot/software/cloud-analytics)
 
 ## Third-Party Cloud Resources
 
@@ -184,6 +184,8 @@ Intel Gateway Solutions for IoT provides:
 # Intel Boot Loader Development Kit  Software
 
 > Free
+
+[](http://www.intel.com/content/www/us/en/intelligent-systems/intel-boot-loader-development-kit/intel-bldk-initialization-firmware-development-solutions-toolkit.html)
 
 ## Intel Parallel Studio XE 
 
