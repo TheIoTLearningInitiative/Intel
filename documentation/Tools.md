@@ -184,7 +184,7 @@ Intel Gateway Solutions for IoT provides:
 # Intel Boot Loader Development Kit  Software
 
 > Free
-> 
+> Fast, simple, flexible firmware development for basic initialization of embedded systems
 > The Intel® Boot Loader Development Kit (Intel® BLDK) is a software toolkit that allows creation of customized and optimized initialization firmware solutions for embedded Intel® processor-based platforms. Intel BLDK enables rapid development of firmware for fixed-function embedded designs—those requiring basic initialization and functionality rather than the full capabilities delivered with a traditional BIOS.
 
 [Intel® Boot Loader Development Kit](http://www.intel.com/content/www/us/en/intelligent-systems/intel-boot-loader-development-kit/intel-bldk-initialization-firmware-development-solutions-toolkit.html)
