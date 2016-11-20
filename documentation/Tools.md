@@ -240,6 +240,6 @@ Intel Gateway Solutions for IoT provides:
 
 # Intel XDK Software Free
 
-# 
+# Intel® Distribution for Python*
 
 > Accelerate HPC and data analytics with high-performance Python [](https://software.intel.com/en-us/intel-distribution-for-python)
