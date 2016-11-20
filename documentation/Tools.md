@@ -239,3 +239,7 @@ Intel Gateway Solutions for IoT provides:
 
 
 # Intel XDK Software Free
+
+# 
+
+>  [](https://software.intel.com/en-us/intel-distribution-for-python)
