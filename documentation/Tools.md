@@ -242,4 +242,4 @@ Intel Gateway Solutions for IoT provides:
 
 # Intel® Distribution for Python*
 
-> Accelerating Python* performance on modern architectures from Intel. Accelerate HPC and data analytics with high-performance Python [](https://software.intel.com/en-us/intel-distribution-for-python)
+> Accelerating Python* performance on modern architectures from Intel. Accelerate HPC and data analytics with high-performance Python [Homepage](https://software.intel.com/en-us/intel-distribution-for-python)
